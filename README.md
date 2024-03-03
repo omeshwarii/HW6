@@ -3,10 +3,10 @@ This repository contains Python scripts for calculating sprint velocity and team
 
 # Features
 Calculates sprint velocity based on previous sprint points completion and determines team effort-hour and effort-hour/person capacity considering various factors such as sprint days, team member availability, and commitments.
-# Follow the Prompts:
+
 - Select Feature A to calculate sprint team velocity.
 - Select Feature B to calculate team effort-hour capacity.
-# Provide Inputs:
+# Inputs:
 Depending on the selected feature:
 - For Feature A: Input the number of previous sprints and their point completions.
 - For Feature B: Input the number of sprint days, team member details (hours per day, days off, days committed to ceremonies).
